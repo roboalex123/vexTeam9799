@@ -17,3 +17,7 @@ h2 > a:hover {
 h2 > a {
     color: #333333;
 }
+
+hr {
+    height: 6px;
+}
