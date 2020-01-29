@@ -8,3 +8,12 @@
 .profile {
     padding: 1%;
 }
+
+h2 > a:hover {
+    text-decoration: none;
+    color: #333333;
+}
+
+h2 > a {
+    color: #333333;
+}
